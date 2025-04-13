@@ -3,7 +3,7 @@
 
 💻 **Flutter Developer | Firebase | Dart | Full Stack**  
 🚀 Passionate about building scalable mobile apps  
-📫 Contact me at: azanaftab12@gmail.com  
+📫 Contact me at: azanaftab12@gmail.com , +92-335-1267227
 🌍 Check out my portfolio: 
 🔗 Connect with me: https://www.linkedin.com/in/azaan-aftab-393473203/ 
 
