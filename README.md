@@ -13,6 +13,7 @@
 - REST APIs Integration, GraphQL  
 - Git & GitHub
 - UI/UX Design Principles
+- state Management(GETX, PROVIDER, RIVERPOD)
 
 ## 📌 Featured Projects  
 🔹 **[Project 1 CHAT APP](https://github.com/DivDash/chat-app)** – A real-time chat application built using Flutter and Firebase. The app supports text messaging, image sharing, and emoji reactions, ensuring smooth and engaging conversations. It utilizes Firebase Google Authentication for secure user login and a real-time database for instant message delivery. The UI is clean and user-friendly, designed for a seamless chatting experience. 🚀 
